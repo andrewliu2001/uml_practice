@@ -8,3 +8,8 @@ To implement:
 - [ ] Topological data analysis, fast near neighbor search, LSH
 - [ ] Text embeddings: Latent Semantic Analysis, Method of moments, Word2Vec, Skipgram
 - [ ] Hyperbolic embeddings
+- [ ] Autoregressive models
+- [ ] Flow models
+- [ ] GANs
+- [ ] Self-supervised learning: BERT
+
