@@ -14,5 +14,5 @@ To implement:
 - [ ] Compression
 - [ ] Anomaly detection
 - [ ] Self-supervised learning: BERT
-- [ ] Meta learning (learning priors)
+- [ ] Meta learning (learning symmetry priors)
 
