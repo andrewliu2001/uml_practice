@@ -8,7 +8,7 @@ To implement:
 - [ ] Topological data analysis, fast near neighbor search, LSH
 - [ ] Text embeddings: Latent Semantic Analysis, Method of moments, Word2Vec, Skipgram
 - [ ] Hyperbolic embeddings
-- [ ] Autoregressive models
+- [ ] Autoregressive models: RNNs, masking
 - [ ] Flow models
 - [ ] GANs
 - [ ] Compression
