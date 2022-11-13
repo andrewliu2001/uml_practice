@@ -11,5 +11,7 @@ To implement:
 - [ ] Autoregressive models
 - [ ] Flow models
 - [ ] GANs
+- [ ] Compression
+- [ ] Anomaly detection
 - [ ] Self-supervised learning: BERT
 
